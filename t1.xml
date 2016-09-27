@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='positives_resize/20160924_123040.png'>
+    <box top='107' left='133' width='120' height='120'/>
+  </image>
+  <image file='positives_resize/20160924_123042.png'>
+    <box top='115' left='276' width='126' height='115'/>
+  </image>
+  <image file='positives_resize/20160924_123043.png'>
+    <box top='56' left='328' width='99' height='100'/>
+  </image>
+  <image file='positives_resize/20160924_123044.png'>
+    <box top='247' left='449' width='103' height='107'/>
+  </image>
+  <image file='positives_resize/20160924_123047.png'>
+    <box top='139' left='496' width='110' height='93'/>
+  </image>
+  <image file='positives_resize/20160924_123048.png'>
+    <box top='31' left='523' width='99' height='90'/>
+  </image>
+  <image file='positives_resize/20160924_123049.png'>
+    <box top='260' left='138' width='102' height='100'/>
+  </image>
+  <image file='positives_resize/20160924_123051.png'>
+    <box top='161' left='293' width='110' height='107'/>
+  </image>
+  <image file='positives_resize/20160924_123053.png'>
+    <box top='159' left='328' width='111' height='83'/>
+  </image>
+  <image file='positives_resize/20160924_123054.png'>
+    <box top='320' left='476' width='97' height='91'/>
+  </image>
+</images>
+</dataset>

@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='positives_resize/20160924_110238.png'>
+    <box top='296' left='295' width='72' height='74'/>
+  </image>
+  <image file='positives_resize/20160924_110249.png'>
+    <box top='261' left='307' width='60' height='63'/>
+  </image>
+  <image file='positives_resize/20160924_110254.png'>
+    <box top='244' left='224' width='73' height='71'/>
+  </image>
+  <image file='positives_resize/20160924_110259.png'>
+    <box top='237' left='251' width='79' height='82'/>
+  </image>
+  <image file='positives_resize/20160924_110310.png'>
+    <box top='231' left='273' width='60' height='63'/>
+  </image>
+  <image file='positives_resize/20160924_110313.png'>
+    <box top='202' left='283' width='82' height='86'/>
+  </image>
+  <image file='positives_resize/20160924_110316.png'>
+    <box top='227' left='196' width='74' height='73'/>
+  </image>
+  <image file='positives_resize/20160924_110326.png'>
+    <box top='233' left='306' width='66' height='67'/>
+  </image>
+  <image file='positives_resize/20160924_110330.png'>
+    <box top='174' left='66' width='145' height='129'/>
+  </image>
+  <image file='positives_resize/20160924_110332.png'>
+    <box top='229' left='411' width='140' height='133'/>
+  </image>
+  <image file='positives_resize/20160924_110343.png'>
+    <box top='223' left='309' width='63' height='64'/>
+  </image>
+  <image file='positives_resize/20160924_110349.png'>
+    <box top='236' left='317' width='62' height='65'/>
+  </image>
+  <image file='positives_resize/20160924_110355.png'>
+    <box top='201' left='341' width='77' height='86'/>
+  </image>
+  <image file='positives_resize/20160924_110401.png'>
+    <box top='158' left='229' width='115' height='119'/>
+  </image>
+  <image file='positives_resize/20160924_110415.png'>
+    <box top='158' left='197' width='157' height='169'/>
+  </image>
+  <image file='positives_resize/20160924_110422.png'>
+    <box top='227' left='339' width='142' height='145'/>
+  </image>
+  <image file='positives_resize/20160924_110429.png'>
+    <box top='264' left='278' width='133' height='139'/>
+  </image>
+  <image file='positives_resize/20160924_110438_001.png'>
+    <box top='239' left='357' width='101' height='106'/>
+  </image>
+  <image file='positives_resize/20160924_110438_002.png'>
+    <box top='240' left='355' width='106' height='106'/>
+  </image>
+  <image file='positives_resize/20160924_110438_003.png'>
+    <box top='237' left='359' width='99' height='107'/>
+  </image>
+  <image file='positives_resize/20160924_110439.png'>
+    <box top='244' left='357' width='105' height='108'/>
+  </image>
+  <image file='positives_resize/20160924_110445.png'>
+    <box top='243' left='248' width='150' height='163'/>
+  </image>
+  <image file='positives_resize/20160924_110454.png'>
+    <box top='212' left='208' width='130' height='129'/>
+  </image>
+  <image file='positives_resize/20160924_110457.png'>
+    <box top='216' left='357' width='116' height='118'/>
+  </image>
+  <image file='positives_resize/20160924_110459.png'>
+    <box top='178' left='331' width='136' height='140'/>
+  </image>
+  <image file='positives_resize/20160924_110509.png'>
+    <box top='177' left='297' width='80' height='82'/>
+  </image>
+  <image file='positives_resize/20160924_110513.png'>
+    <box top='115' left='287' width='81' height='92'/>
+  </image>
+  <image file='positives_resize/20160924_110523.png'>
+    <box top='188' left='264' width='98' height='90'/>
+  </image>
+  <image file='positives_resize/20160924_110526.png'>
+    <box top='182' left='277' width='92' height='80'/>
+  </image>
+  <image file='positives_resize/20160924_110535.png'>
+    <box top='142' left='245' width='95' height='96'/>
+  </image>
+  <image file='positives_resize/20160924_110540.png'>
+    <box top='132' left='241' width='96' height='99'/>
+  </image>
+  <image file='positives_resize/20160924_110551.png'>
+    <box top='197' left='238' width='130' height='136'/>
+  </image>
+  <image file='positives_resize/20160924_110554.png'>
+    <box top='240' left='216' width='143' height='149'/>
+  </image>
+  <image file='positives_resize/20160924_110557.png'>
+    <box top='205' left='194' width='137' height='160'/>
+  </image>
+  <image file='positives_resize/20160924_110559.png'>
+    <box top='137' left='222' width='133' height='156'/>
+  </image>
+  <image file='positives_resize/20160924_110617.png'>
+    <box top='188' left='251' width='88' height='78'/>
+  </image>
+  <image file='positives_resize/20160924_110619.png'>
+    <box top='225' left='260' width='58' height='53'/>
+  </image>
+  <image file='positives_resize/20160924_110621.png'>
+    <box top='107' left='230' width='93' height='96'/>
+  </image>
+  <image file='positives_resize/20160924_110626.png'>
+    <box top='131' left='248' width='75' height='75'/>
+  </image>
+  <image file='positives_resize/20160924_110629.png'>
+    <box top='187' left='90' width='92' height='91'/>
+  </image>
+  <image file='positives_resize/20160924_110631.png'>
+    <box top='154' left='74' width='106' height='95'/>
+  </image>
+  <image file='positives_resize/20160924_110656.png'>
+    <box top='254' left='222' width='137' height='141'/>
+  </image>
+  <image file='positives_resize/20160924_110658.png'>
+    <box top='250' left='240' width='122' height='124'/>
+  </image>
+  <image file='positives_resize/20160924_110701.png'>
+    <box top='145' left='158' width='121' height='109'/>
+  </image>
+  <image file='positives_resize/20160924_110703.png'>
+    <box top='275' left='187' width='75' height='74'/>
+  </image>
+    <image file='positives_resize/20160924_123040.png'>
+    <box top='107' left='133' width='120' height='120'/>
+  </image>
+  <image file='positives_resize/20160924_123042.png'>
+    <box top='115' left='276' width='126' height='115'/>
+  </image>
+  <image file='positives_resize/20160924_123043.png'>
+    <box top='56' left='328' width='99' height='100'/>
+  </image>
+  <image file='positives_resize/20160924_123044.png'>
+    <box top='247' left='449' width='103' height='107'/>
+  </image>
+  <image file='positives_resize/20160924_123047.png'>
+    <box top='139' left='496' width='110' height='93'/>
+  </image>
+  <image file='positives_resize/20160924_123048.png'>
+    <box top='31' left='523' width='99' height='90'/>
+  </image>
+  <image file='positives_resize/20160924_123049.png'>
+    <box top='260' left='138' width='102' height='100'/>
+  </image>
+  <image file='positives_resize/20160924_123051.png'>
+    <box top='161' left='293' width='110' height='107'/>
+  </image>
+  <image file='positives_resize/20160924_123053.png'>
+    <box top='159' left='328' width='111' height='83'/>
+  </image>
+  <image file='positives_resize/20160924_123054.png'>
+    <box top='320' left='476' width='97' height='91'/>
+  </image>
+</images>
+</dataset>
